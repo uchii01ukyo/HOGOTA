@@ -1,6 +1,5 @@
 # HOGOTA
-Agricultural Sensing Systems
-  
+Agricultural Sensing Systems  
 Agricultural data system that can be checked with a smartphone
   
 ## System
@@ -33,6 +32,5 @@ Sensing data
 + [SORACOM Air](https://soracom.jp/services/air/)
   
 ## Author
-Uchii Ukyo(https://github.com/uchii01ukyo)
-  
+Uchii Ukyo(https://github.com/uchii01ukyo)  
 Kagatani Shogo
