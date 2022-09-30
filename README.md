@@ -2,7 +2,7 @@
 Agricultural data system that can be checked with a smartphone
   
 ## System
-Assuming outdoor agriculture and using cellular lines (LTE-M communication)
+Assuming outdoor agriculture and using cellular lines (LTE-M communication)  
 <img src="https://github.com/uchii01ukyo/HOGOTA/blob/main/doc/Picture1.png" width="400px">
   
 <img src="https://github.com/uchii01ukyo/HOGOTA/blob/main/doc/System.png" width="500px">
