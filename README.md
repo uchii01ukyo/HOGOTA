@@ -9,7 +9,7 @@ Assuming outdoor agriculture and using cellular lines (LTE-M communication)
   
 <img src="https://github.com/uchii01ukyo/HOGOTA/blob/main/doc/System.png" width="500px">
   
-Sensing data
+## Sensing data
 + Atmospheric temperature + humidity
 + CO2
 + Brightness
