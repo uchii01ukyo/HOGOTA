@@ -1,5 +1,6 @@
 # HOGOTA
-Agricultural Sensing Systems　　
+Agricultural Sensing Systems
+  
 Agricultural data system that can be checked with a smartphone
   
 ## System
@@ -33,4 +34,5 @@ Sensing data
   
 ## Author
 Uchii Ukyo(https://github.com/uchii01ukyo)
+  
 Kagatani Shogo
